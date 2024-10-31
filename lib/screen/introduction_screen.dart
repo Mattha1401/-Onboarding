@@ -29,7 +29,7 @@ class IntroScreen extends StatelessWidget {
         ),
       ),
       image: Center(
-        child: Image.asset('images/c1.jpg')
+        child: Image.asset('assets/images/c1.jpg')
       ),
       decoration: const PageDecoration(
         titleTextStyle: TextStyle(
@@ -56,7 +56,7 @@ class IntroScreen extends StatelessWidget {
         ),
       ),
       image: Center(
-        child: Image.asset('images/c2.jpg'),
+        child: Image.asset('assets/images/c2.jpg'),
       ),
       decoration: const PageDecoration(
         titleTextStyle: TextStyle(
@@ -82,7 +82,7 @@ class IntroScreen extends StatelessWidget {
         ),
       ),
       image: Center(
-        child: Image.asset('images/c3.jpg'),
+        child: Image.asset('assets/images/c3.jpg'),
       ),
       decoration: const PageDecoration(
         titleTextStyle: TextStyle(
